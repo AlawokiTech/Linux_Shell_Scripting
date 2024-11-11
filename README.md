@@ -23,7 +23,7 @@
 
 
 ## 1. Project Overview
-TThis project involves creating a Bash script that generates a multiplication table for a given number using both list-style and C-style for loops. The script provides an option to display the table either in ascending or descending order, and the user can choose to view a full table (from 1 to 10) or a partial table with a custom range. The project is managed with Git, including initializing a local repository, committing changes, and pushing updates to GitHub.
+This project involves creating a Bash script that generates a multiplication table for a given number using both list-style and C-style for loops. The script provides an option to display the table either in ascending or descending order, and the user can choose to view a full table (from 1 to 10) or a partial table with a custom range. The project is managed with Git, including initializing a local repository, committing changes, and pushing updates to GitHub.
 
 ## 2. Project Steps and Commands
 
